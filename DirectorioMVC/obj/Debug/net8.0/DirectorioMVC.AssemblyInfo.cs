@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirectorioMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c8320f1f542568fe835bd66e09c8e6765442c83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d52d3487c88912aa3b1aae0e1caf03f4cdc7d93")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirectorioMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirectorioMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
