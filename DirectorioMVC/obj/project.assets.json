@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC.csproj",
+      "projectUniqueName": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
       "projectName": "DirectorioMVC",
-      "projectPath": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC.csproj",
+      "projectPath": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
       "packagesPath": "C:\\Users\\Kingdom\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\DirectorioMVC\\obj\\",
+      "outputPath": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
