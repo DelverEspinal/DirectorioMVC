@@ -1,18 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "NpUkYbizsWs=",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  "dgSpecHash": "kRxmC3FmCl4=",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+  "projectFilePath": "C:\\Users\\Ariel\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+=======
+  "dgSpecHash": "Lp8mqtqjOFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+>>>>>>> Stashed changes
+=======
+  "dgSpecHash": "Lp8mqtqjOFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+>>>>>>> Stashed changes
+=======
+  "dgSpecHash": "Lp8mqtqjOFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+>>>>>>> Stashed changes
+=======
+  "dgSpecHash": "Lp8mqtqjOFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problema al leer el archivo de caché C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\GitHub\\DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
