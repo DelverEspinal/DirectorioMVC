@@ -65,3 +65,6 @@ C:\Users\bryan\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\De
 C:\Users\bryan\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\DirectorioMVC.pdb
 C:\Users\bryan\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\DirectorioMVC.genruntimeconfig.cache
 C:\Users\bryan\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\ref\DirectorioMVC.dll
+C:\Users\Vero\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\DirectorioMVC.dll
+C:\Users\Vero\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\refint\DirectorioMVC.dll
+C:\Users\Vero\OneDrive\Documentos\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\DirectorioMVC.pdb

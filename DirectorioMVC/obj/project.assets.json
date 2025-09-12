@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bryan\\.nuget\\packages\\": {},
+    "C:\\Users\\Vero\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
       "projectName": "DirectorioMVC",
-      "projectPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
-      "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\obj\\",
+      "projectPath": "C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+      "packagesPath": "C:\\Users\\Vero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -84,7 +84,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+      "message": "Problema al leer el archivo de caché C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
     }
   ]
 }
