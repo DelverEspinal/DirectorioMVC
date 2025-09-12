@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\poo-directoriomvc\\directoriomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\poo-directoriomvc\\directoriomvc\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|solutionrelative:views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\poo-directoriomvc\\directoriomvc\\directoriomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|solutionrelative:directoriomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\poo-directoriomvc\\directoriomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1239E1F-F7A7-42AB-8193-00F74A20BF66}|DirectorioMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -37,8 +37,24 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "DirectorioMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+              "RelativeDocumentMoniker": "DirectorioMVC.csproj",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+              "RelativeToolTip": "DirectorioMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T03:40:32.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -50,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Views\\Persona\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Persona\\Index.cshtml",
@@ -58,7 +74,8 @@
               "RelativeToolTip": "Views\\Persona\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T03:42:59.811Z"
+              "WhenOpened": "2025-09-09T03:42:59.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
