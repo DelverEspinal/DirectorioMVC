@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBQAf2qJAwY=",
+  "dgSpecHash": "Lp8mqtqjOFA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+  "projectFilePath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problema al leer el archivo de caché C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\Vero\\OneDrive\\Documentos\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
